@@ -1,4 +1,4 @@
-![FOUNDhouse](http://foundhouse.cc/assets/img/header-bg.jpg)
+![FOUNDhouse](http://foundhouse.cc/assets/img/header.PNG)
 
 FOUNDhouse
 ==========
