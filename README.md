@@ -9,9 +9,9 @@ created by Patrick Beseda and Lacy Williams of FNDRY (http://fndryfndry.com)
 
 LICENSE
 ==========
-All FOUNDhouse materials are published under a Creative Commons Attribution-NonCommercial-ShareAlike license.
+All FOUNDhouse materials are published under a Creative Commons Attribution-ShareAlike license.
 You can read more about the terms and conditions of the license here:
-http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Releases (download files here!)
 ==========
